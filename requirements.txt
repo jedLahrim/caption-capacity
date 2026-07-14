@@ -1,6 +1,0 @@
-gradio
-captacity[local_whisper]
-openai-whisper
-moviepy<2
-pillow
-numpy
