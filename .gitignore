@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+.idea/
+.air/
+.DS_Store
+*TEMP_MPY*
+*.mp3
+*.mp4
+*.mov
+*.mkv
